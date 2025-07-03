@@ -1,4 +1,4 @@
-# Sensor-Based Risk Assessment with Deep Learning
+# Sensor-Based Risk Assessment
 
 **Note:** The main Jupyter notebook (`sensor-based-risk-assessment-for-manufacturing.ipynb`) and the `requirements.txt` file are both available in the files section of this repository.
 
